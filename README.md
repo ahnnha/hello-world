@@ -1,3 +1,3 @@
 # hello-world
 my very first repository
-Hello, my name is Jessica.
+Hello, my name is Yun.
